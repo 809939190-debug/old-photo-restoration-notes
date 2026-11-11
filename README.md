@@ -218,6 +218,10 @@ DiffBIR 是扩散模型方案，理论上更强。实测：
 
 ## 复现
 
+完整步骤见 **[REPRODUCE.md](REPRODUCE.md)**（含可直接粘给 AI 助手的指令）。
+
+
+
 ```bash
 pip install -r requirements.txt
 export ARK_API_KEY=...
