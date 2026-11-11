@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.venv/
+work/
+crop_user/
+up_all/
+restored/
+colored/
+final_bw/
+final_color/
+*.png
+*.jpg
+*.jpeg
+*.pdf
+.env
