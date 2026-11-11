@@ -13,3 +13,7 @@ final_color/
 *.jpeg
 *.pdf
 .env
+
+# 文档配图（公有领域素材，非个人照片）
+!docs/figures/
+!docs/figures/*.png
